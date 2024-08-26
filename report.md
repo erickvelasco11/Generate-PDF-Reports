@@ -15,13 +15,14 @@ En el barrio Ciudad Jardín hay 4 parques importantes que presentan diversas pro
 
 **Ubicación:**  
 Carrera 12 con Calle 19 sur
-![Parque Principal Los Fundadores](maps/1.png, "Parque principal YuJu")
+![Parque Principal Los Fundadores](maps/1.png)
 
 **Descripción de la Problemática:**  
 Este parque fue remodelado hace pocos meses, por tanto el estado en general es bueno, sin embargo, los habitantes del sector mencionan que es común ver habitantes de calle en el parque
 
 **Evidencia Fotográfica:**
-![Habitantes de calle](images/fundadores_1.jpg)
+![Parque Principal los Fundadores](images/fundadores_1.jpg)
+![Habitantes de calle](images/fundadores_2.jpg)
 
 ---
 
