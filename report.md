@@ -21,7 +21,9 @@ Carrera 12 con Calle 19 sur
 Este parque fue remodelado hace pocos meses, por tanto el estado en general es bueno, sin embargo, los habitantes del sector mencionan que es común ver habitantes de calle en el parque
 
 **Evidencia Fotográfica:**
+Parque Principal los Fundadores
 ![Parque Principal los Fundadores](images/fundadores_1.jpg)
+Habitantes de calle
 ![Habitantes de calle](images/fundadores_2.jpg)
 
 ---
@@ -36,11 +38,17 @@ Carrera 11a Bis con Calle 14 sur
 Este parque se encuentra principalmente en la Carrera 1a Bis con Calle 14 sur, donde hay algunas canchas y juegos infantiles donde se evidencia deterioro del enlozado y del piso. Además, el parque cuenta con zonas verdes y un sendero peatonal y ciclovía que se extieneden a lo largo del costado sur del río Fucha, desde la carrera 10 hasta la Carrera 12b. A lo largo de este sendero se evidencian problemáticas de basuras en la carrera 12, habitantes de calle que han hecho su "Cambuche" cerca de la Carrera 10a y un arbol del que se desprendió una rama y que no se ha levantado. La iluminación no es tan buena y los árboles tienen un amplio ramaje, por lo que los habitantes del sector mencionan que en las noches se evidencia consumo de drogas a lo largo de este sector
 
 **Evidencia Fotográfica:**
+Parque Principal Río Fucha
 ![Parque Principal Río Fucha](images/fucha_1.jpg)
+Zonas verdes
 ![Zonas verdes](images/fucha_2.jpg)
+Lozas rotas del piso
 ![Lozas rotas del piso](images/fucha_3.jpg)
+Árbol caido
 ![Árbol caido](images/fucha_4.jpg)
+Problemática de basuras
 ![Problemática de basuras](images/fucha_5.jpg)
+Habitantes de calle
 ![Habitantes de calle](images/fucha_6.jpg)
 
 ---
